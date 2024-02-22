@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\programador\\Desktop\\proyectos\\intranet fenix salud\\intranet fenix salud.csproj": {}
+    "C:\\Users\\programador\\Desktop\\proyectos\\FenixSalud\\intranet fenix salud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\programador\\Desktop\\proyectos\\intranet fenix salud\\intranet fenix salud.csproj": {
+    "C:\\Users\\programador\\Desktop\\proyectos\\FenixSalud\\intranet fenix salud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\programador\\Desktop\\proyectos\\intranet fenix salud\\intranet fenix salud.csproj",
+        "projectUniqueName": "C:\\Users\\programador\\Desktop\\proyectos\\FenixSalud\\intranet fenix salud.csproj",
         "projectName": "intranet_fenix_salud",
-        "projectPath": "C:\\Users\\programador\\Desktop\\proyectos\\intranet fenix salud\\intranet fenix salud.csproj",
+        "projectPath": "C:\\Users\\programador\\Desktop\\proyectos\\FenixSalud\\intranet fenix salud.csproj",
         "packagesPath": "C:\\Users\\programador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\programador\\Desktop\\proyectos\\intranet fenix salud\\obj\\",
+        "outputPath": "C:\\Users\\programador\\Desktop\\proyectos\\FenixSalud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\programador\\AppData\\Roaming\\NuGet\\NuGet.Config",
