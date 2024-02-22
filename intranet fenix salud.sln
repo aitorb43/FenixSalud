@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intranet fenix salud", "intranet fenix salud.csproj", "{2610ACC9-07C4-45C7-AA2F-7D8F83D34FBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2610ACC9-07C4-45C7-AA2F-7D8F83D34FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2610ACC9-07C4-45C7-AA2F-7D8F83D34FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2610ACC9-07C4-45C7-AA2F-7D8F83D34FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2610ACC9-07C4-45C7-AA2F-7D8F83D34FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C275C99-24B4-4B54-8DCF-859A7E6CC3CF}
+	EndGlobalSection
+EndGlobal
